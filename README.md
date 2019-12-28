@@ -6,6 +6,7 @@ Classic minesweeper (customizable size and number of bombs, chording available)
 - F5 to restart
 
 Future plans
+- Implement a "first click is always safe" version
 - Implement a guess-free version (guessing is always unnecessary)
 - Implement a Minesweeper solver (probably needed for the guess-free version)
-- Implement cruel-but-fair version (forced guesses are always safe, but punishes for unnecessary guessing)
+- Implement a cruel-but-fair version (necessary guesses are always safe, but punishes for unnecessary guessing)
