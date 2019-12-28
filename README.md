@@ -7,7 +7,7 @@ Classic minesweeper (customizable size and number of bombs, chord available)
 
 Future plans
 - Implement an easy-start version (first click is always safe)
-- Implement a recursive chording version
+- Implement a recursive chord version
   - Recursive chord: if a tile is uncovered and the number equals to the number of flags adjacent to it, all adjacent unflagged covered tiles will automatically open at the same time (unlike standard chord, where a left click on the number is necessary to open them)
 - Implement a flagging chord version
   - Flagging chord: if the number on an uncovered tile equals to the number of adjacent covered tiles (eg: there is a "3" tile with 3 covered tiles adjacent to it), left clicking on that tile will flag all adjacent covered tiles.
